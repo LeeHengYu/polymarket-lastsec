@@ -1,0 +1,15 @@
+# Client common
+DEFAULT_CLOB_HOST = "https://clob.polymarket.com"
+DEFAULT_CLOB_CHAIN_ID = 137
+DEFAULT_WS_URL = "wss://ws-subscriptions-clob.polymarket.com"
+
+# GAMMA endpoint
+DEFAULT_GAMMA_BASE_URL = "https://gamma-api.polymarket.com"
+DEFAULT_TIMEOUT_SECONDS = 10
+
+# Credential / Auth
+ENV_CLOB_PRIVATE_KEY = "PMLS_CLOB_PRIVATE_KEY"
+ENV_CLOB_API_KEY = "PMLS_CLOB_API_KEY"
+ENV_CLOB_API_SECRET = "PMLS_CLOB_API_SECRET"
+ENV_CLOB_API_PASSPHRASE = "PMLS_CLOB_API_PASSPHRASE"
+FUNDER_ADDR = "FUNDER_ADDR"

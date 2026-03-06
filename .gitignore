@@ -1,0 +1,13 @@
+.pmls/
+.env*
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv
+
+.claude/
+CLAUDE.md
+
+# BUILD files
+dist/
+pmls.egg-info/
